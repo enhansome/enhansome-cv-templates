@@ -1,0 +1,234 @@
+{
+  "items": [
+    {
+      "description": "If you are an academic, then you might want to include your publications as part of your CV.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Jekyll-Scholar",
+          "description": "A gem that works alongside the static-site generator in order to convert into .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Gherkin",
+            "last_commit": "2026-01-06T11:13:49Z",
+            "owner": "inukshuk",
+            "repo": "jekyll-scholar",
+            "stars": 1198
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bibtex2html",
+          "description": "Command-line tool that converts files into .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "OCaml",
+            "last_commit": "2024-01-19T14:35:46Z",
+            "owner": "backtracking",
+            "repo": "bibtex2html",
+            "stars": 109
+          }
+        }
+      ],
+      "title": "Bibliographies"
+    },
+    {
+      "description": "CSS CV templates are based on HTML standards and they are geared towards screen output, but there is also the option to print.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Markdown Resume",
+          "description": "Generate a responsive CSS3 and HTML5 resume with , with optional PDF output through .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Less",
+            "last_commit": "2023-03-18T05:20:54Z",
+            "owner": "there4",
+            "repo": "markdown-resume",
+            "stars": 1786
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Markdown CV",
+          "description": "A simple template to write your CV in a readable file and use CSS to publish or print it through the browser.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-06-27T09:30:26Z",
+            "owner": "elipapa",
+            "repo": "markdown-cv",
+            "stars": 1495
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jekyll Theme Basically Basic",
+          "description": "Generate a simple static website with the layout engine and a theme that supports the resume standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2024-08-09T21:56:19Z",
+            "owner": "mmistakes",
+            "repo": "jekyll-theme-basically-basic",
+            "stars": 899
+          }
+        }
+      ],
+      "title": "CSS"
+    },
+    {
+      "description": "Workflows employ one or more programming and layout languages, toolchains, and schemas, in order to produce multiple outputs from a single data source.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hack My Resume",
+          "description": "Edit a single standard file and generate CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML with libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-03T22:14:29Z",
+            "owner": "hacksalot",
+            "repo": "HackMyResume",
+            "stars": 9342
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pandoc Resume",
+          "description": "Edit a human readable file and generate HTML, PDF with and .",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2024-02-28T17:35:05Z",
+            "owner": "mszep",
+            "repo": "pandoc_resume",
+            "stars": 1772
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Resume generator",
+          "description": "Edit a markdown file and then the unix tool employs a pre-processor and pandoc, in order to create PDF and HTML output.",
+          "children": []
+        }
+      ],
+      "title": "Workflows"
+    },
+    {
+      "description": "This section contains only pure LaTeX templates, which focus on the production of printed pages.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Deedy Resume",
+          "description": "A one page, two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2022-09-18T07:22:40Z",
+            "owner": "deedy",
+            "repo": "Deedy-Resume",
+            "stars": 5047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaTeX CV",
+          "description": "Three templates (classic, modern, infographics) with asian languages support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2026-07-31T11:43:45Z",
+            "owner": "jankapunkt",
+            "repo": "latexcv",
+            "stars": 3328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alta CV",
+          "description": "Alta CV provides two-columns, infographics, and icons and it is based on the original Marissa Meyer resume.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2025-07-30T13:17:34Z",
+            "owner": "liantze",
+            "repo": "AltaCV",
+            "stars": 1570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "limecv",
+          "description": "Limecv by opieters is an elaborate and well-documented two-collumn resume with icons and infographic elements.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2021-11-30T19:45:44Z",
+            "owner": "opieters",
+            "repo": "limecv",
+            "stars": 424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XeTeX CV",
+          "description": "This flexible template by dartar supports any font and language and it has inspired many forks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2010-06-18T19:09:30Z",
+            "owner": "dartar",
+            "repo": "cvtex",
+            "stars": 162
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fancy CV",
+          "description": "Fancy CV by Adrien Friggeri is a modern layout and has inspired many forks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2017-07-12T23:01:12Z",
+            "owner": "depressiveRobot",
+            "repo": "friggeri-cv-a4",
+            "stars": 94
+          }
+        }
+      ],
+      "title": "LaTeX"
+    },
+    {
+      "description": "Contributions welcome! Read the contribution guidelines first.",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "To the extent possible under law, epidrome has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:06:35.660Z",
+    "original_repository": "epidrome/awesome-cv-templates",
+    "original_repository_sha": "12a7df7f2b85a0aae002521c5d7832f0e50259af",
+    "enhanced_repository": "enhansome/enhansome-cv-templates",
+    "enhanced_repository_description": null,
+    "title": "Awesome CV Templates with stars"
+  }
+}
