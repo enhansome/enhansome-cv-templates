@@ -23,14 +23,14 @@ If you are an academic, then you might want to include your publications as part
 CSS CV templates are based on HTML standards and they are geared towards screen output, but there is also the option to print.
 
 * [Markdown Resume](https://github.com/there4/markdown-resume) ⭐ 1,786 | 🐛 19 | 🌐 Less | 📅 2023-03-18 - Generate a responsive CSS3 and HTML5 resume with `Markdown`, with optional PDF output through `wkhtmltopdf`.
-* [Markdown CV](https://github.com/elipapa/markdown-cv) ⭐ 1,495 | 🐛 36 | 🌐 CSS | 📅 2024-06-27 - A simple template to write your CV in a readable `Markdown` file and use CSS to publish or print it through the browser.
+* [Markdown CV](https://github.com/elipapa/markdown-cv) ⭐ 1,494 | 🐛 36 | 🌐 CSS | 📅 2024-06-27 - A simple template to write your CV in a readable `Markdown` file and use CSS to publish or print it through the browser.
 * [Jekyll Theme Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic) ⭐ 899 | 🐛 13 | 🌐 SCSS | 📅 2024-08-09 - Generate a simple static website with the `Jekyll` layout engine and a theme that supports the `JSON` resume standard.
 
 ## Workflows
 
 Workflows employ one or more programming and layout languages, toolchains, and schemas, in order to produce multiple outputs from a single data source.
 
-* [Hack My Resume](https://github.com/hacksalot/HackMyResume) ⭐ 9,342 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-03 - Edit a single standard `JSON` file and generate CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML with `JavaScript` libraries.
+* [Hack My Resume](https://github.com/hacksalot/HackMyResume) ⭐ 9,343 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-03 - Edit a single standard `JSON` file and generate CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML with `JavaScript` libraries.
 * [Pandoc Resume](https://github.com/mszep/pandoc_resume) ⭐ 1,772 | 🐛 38 | 🌐 TeX | 📅 2024-02-28 - Edit a human readable `Markdown` file and generate HTML, PDF with `pandoc` and `LaTeX`.
 * [Resume generator](https://github.com/mwhite/resume) - Edit a markdown file and then the unix `make` tool employs a `python` pre-processor and pandoc, in order to create PDF and HTML output.
 
@@ -40,7 +40,7 @@ This section contains only pure LaTeX templates, which focus on the production o
 
 * [Deedy Resume](https://github.com/deedy/Deedy-Resume) ⭐ 5,049 | 🐛 50 | 🌐 TeX | 📅 2022-09-18 - A one page, two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student.
 * [LaTeX CV](https://github.com/jankapunkt/latexcv) ⭐ 3,330 | 🐛 1 | 🌐 TeX | 📅 2026-07-31 - Three templates (classic, modern, infographics) with asian languages support.
-* [Alta CV](https://github.com/liantze/AltaCV) ⭐ 1,571 | 🐛 11 | 🌐 TeX | 📅 2025-07-30 - Alta CV provides two-columns, infographics, and icons and it is based on the [original Marissa Meyer resume](https://www.businessinsider.com/a-sample-resume-for-marissa-mayer-2015-7/).
+* [Alta CV](https://github.com/liantze/AltaCV) ⭐ 1,572 | 🐛 11 | 🌐 TeX | 📅 2025-07-30 - Alta CV provides two-columns, infographics, and icons and it is based on the [original Marissa Meyer resume](https://www.businessinsider.com/a-sample-resume-for-marissa-mayer-2015-7/).
 * [limecv](https://github.com/opieters/limecv) ⭐ 424 | 🐛 6 | 🌐 TeX | 📅 2021-11-30 - Limecv by opieters is an elaborate and well-documented two-collumn resume with icons and infographic elements.
 * [XeTeX CV](https://github.com/dartar/cvtex) ⭐ 162 | 🐛 1 | 📅 2010-06-18 - This flexible template by dartar supports any font and language and it has inspired many forks.
 * [Fancy CV](https://github.com/depressiveRobot/friggeri-cv-a4) ⭐ 94 | 🐛 1 | 🌐 TeX | 📅 2017-07-12 - Fancy CV by Adrien Friggeri is a modern layout and has inspired many forks.
@@ -73,4 +73,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
