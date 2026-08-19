@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1982854,
             "language": "Gherkin",
             "last_commit": "2026-01-06T11:13:49Z",
             "owner": "inukshuk",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18639988,
             "language": "OCaml",
             "last_commit": "2024-01-19T14:35:46Z",
             "owner": "backtracking",
@@ -44,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3571772,
             "language": "Less",
             "last_commit": "2023-03-18T05:20:54Z",
             "owner": "there4",
@@ -58,6 +61,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6176823,
             "language": "CSS",
             "last_commit": "2024-06-27T09:30:26Z",
             "owner": "elipapa",
@@ -72,6 +76,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 84246188,
             "language": "SCSS",
             "last_commit": "2024-08-09T21:56:19Z",
             "owner": "mmistakes",
@@ -92,6 +97,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43076202,
             "language": "JavaScript",
             "last_commit": "2022-04-03T22:14:29Z",
             "owner": "hacksalot",
@@ -106,18 +112,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21666181,
             "language": "TeX",
             "last_commit": "2024-02-28T17:35:05Z",
             "owner": "mszep",
             "repo": "pandoc_resume",
             "stars": 1772
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Resume generator",
-          "description": "Edit a markdown file and then the unix tool employs a pre-processor and pandoc, in order to create PDF and HTML output.",
-          "children": []
         }
       ],
       "title": "Workflows"
@@ -132,6 +133,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19312540,
             "language": "TeX",
             "last_commit": "2022-09-18T07:22:40Z",
             "owner": "deedy",
@@ -146,6 +148,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20863462,
             "language": "TeX",
             "last_commit": "2026-07-31T11:43:45Z",
             "owner": "jankapunkt",
@@ -160,6 +163,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 66150908,
             "language": "TeX",
             "last_commit": "2025-07-30T13:17:34Z",
             "owner": "liantze",
@@ -174,6 +178,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 98804117,
             "language": "TeX",
             "last_commit": "2021-11-30T19:45:44Z",
             "owner": "opieters",
@@ -188,6 +193,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 697513,
             "language": null,
             "last_commit": "2010-06-18T19:09:30Z",
             "owner": "dartar",
@@ -202,6 +208,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44742450,
             "language": "TeX",
             "last_commit": "2017-07-12T23:01:12Z",
             "owner": "depressiveRobot",
@@ -211,21 +218,12 @@
         }
       ],
       "title": "LaTeX"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "To the extent possible under law, epidrome has waived all copyright and related or neighboring rights to this work.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:00:27.824Z",
+    "last_updated": "2026-08-19T12:25:48.549Z",
     "original_repository": "epidrome/awesome-cv-templates",
+    "original_repository_id": 200389958,
     "original_repository_sha": "12a7df7f2b85a0aae002521c5d7832f0e50259af",
     "enhanced_repository": "enhansome/enhansome-cv-templates",
     "enhanced_repository_description": null,

@@ -58,7 +58,7 @@ There are (free or commercial) services that aid the user to fill-in and/or cust
 
 * [enhancecv](https://enhancv.com/) - Commercial service with variations of a single template.
 * [resume.io](https://resume.io/) - Commercial service with several templates (professional, modern, simple).
-* [resumake](https://github.com/saadq/resumake.io) ⭐ 3,584 | 🐛 89 | 🌐 HTML | 📅 2026-06-26 - Free service that supports the `JSON` resume standard and employs `LaTeX` templates.
+* [resumake](https://github.com/saadq/resumake.io) ⭐ 3,584 | 🐛 90 | 🌐 HTML | 📅 2026-06-26 - Free service that supports the `JSON` resume standard and employs `LaTeX` templates.
 
 ## Contribute
 
