@@ -15,7 +15,7 @@
 
 If you are an academic, then you might want to include your publications as part of your CV.
 
-* [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) ⭐ 1,199 | 🐛 65 | 🌐 Gherkin | 📅 2026-01-06 - A `ruby` gem that works alongside the `jekyll` static-site generator in order to convert `BibTeX` into `HTML`.
+* [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) ⭐ 1,200 | 🐛 65 | 🌐 Gherkin | 📅 2026-01-06 - A `ruby` gem that works alongside the `jekyll` static-site generator in order to convert `BibTeX` into `HTML`.
 * [bibtex2html](https://github.com/backtracking/bibtex2html) ⭐ 109 | 🐛 17 | 🌐 OCaml | 📅 2024-01-19 - Command-line tool that converts `BibTeX` files into `HTML`.
 
 ## CSS
@@ -23,7 +23,7 @@ If you are an academic, then you might want to include your publications as part
 CSS CV templates are based on HTML standards and they are geared towards screen output, but there is also the option to print.
 
 * [Markdown Resume](https://github.com/there4/markdown-resume) ⭐ 1,785 | 🐛 19 | 🌐 Less | 📅 2023-03-18 - Generate a responsive CSS3 and HTML5 resume with `Markdown`, with optional PDF output through `wkhtmltopdf`.
-* [Markdown CV](https://github.com/elipapa/markdown-cv) ⭐ 1,494 | 🐛 36 | 🌐 CSS | 📅 2024-06-27 - A simple template to write your CV in a readable `Markdown` file and use CSS to publish or print it through the browser.
+* [Markdown CV](https://github.com/elipapa/markdown-cv) ⭐ 1,493 | 🐛 36 | 🌐 CSS | 📅 2024-06-27 - A simple template to write your CV in a readable `Markdown` file and use CSS to publish or print it through the browser.
 * [Jekyll Theme Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic) ⭐ 899 | 🐛 13 | 🌐 SCSS | 📅 2024-08-09 - Generate a simple static website with the `Jekyll` layout engine and a theme that supports the `JSON` resume standard.
 
 ## Workflows
@@ -73,4 +73,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
