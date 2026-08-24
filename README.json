@@ -66,7 +66,7 @@
             "last_commit": "2024-06-27T09:30:26Z",
             "owner": "elipapa",
             "repo": "markdown-cv",
-            "stars": 1493
+            "stars": 1492
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2024-02-28T17:35:05Z",
             "owner": "mszep",
             "repo": "pandoc_resume",
-            "stars": 1773
+            "stars": 1774
           }
         }
       ],
@@ -218,10 +218,52 @@
         }
       ],
       "title": "LaTeX"
+    },
+    {
+      "description": "Schemas provide a generic structure for CV data and facilitate cross compilation with alternative templates.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "FRESH",
+          "description": "YAML` standard for resumes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46491778,
+            "language": null,
+            "last_commit": "2019-02-08T09:19:57Z",
+            "owner": "fresh-standard",
+            "repo": "fresh-resume-schema",
+            "stars": 559
+          }
+        }
+      ],
+      "title": "Schemas"
+    },
+    {
+      "description": "There are (free or commercial) services that aid the user to fill-in and/or customize a CV template with a simple web form.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "resumake",
+          "description": "Free service that supports the resume standard and employs templates.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90080868,
+            "language": "HTML",
+            "last_commit": "2026-06-26T08:39:24Z",
+            "owner": "saadq",
+            "repo": "resumake.io",
+            "stars": 3585
+          }
+        }
+      ],
+      "title": "Services"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T02:07:23.533Z",
+    "last_updated": "2026-08-24T14:44:40.832Z",
     "original_repository": "epidrome/awesome-cv-templates",
     "original_repository_id": 200389958,
     "original_repository_sha": "12a7df7f2b85a0aae002521c5d7832f0e50259af",
