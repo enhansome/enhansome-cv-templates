@@ -263,9 +263,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:07:20.158Z",
-    "original_repository": "epidrome/awesome-cv-templates",
-    "original_repository_id": 200389958,
+    "last_updated": "2026-08-27T11:35:00.165Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 200389958,
+      "language": null,
+      "last_commit": "2025-08-14T07:10:36Z",
+      "owner": "epidrome",
+      "repo": "awesome-cv-templates",
+      "stars": 73
+    },
     "original_repository_sha": "12a7df7f2b85a0aae002521c5d7832f0e50259af",
     "enhanced_repository": "enhansome/enhansome-cv-templates",
     "enhanced_repository_description": null,
