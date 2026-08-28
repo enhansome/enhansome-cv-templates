@@ -16,7 +16,8 @@
             "owner": "inukshuk",
             "repo": "jekyll-scholar",
             "stars": 1201
-          }
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "backtracking",
             "repo": "bibtex2html",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         }
       ],
       "title": "Bibliographies"
@@ -52,7 +54,8 @@
             "owner": "there4",
             "repo": "markdown-resume",
             "stars": 1785
-          }
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         },
         {
           "node_type": "item",
@@ -67,7 +70,8 @@
             "owner": "elipapa",
             "repo": "markdown-cv",
             "stars": 1493
-          }
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "mmistakes",
             "repo": "jekyll-theme-basically-basic",
             "stars": 899
-          }
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         }
       ],
       "title": "CSS"
@@ -102,8 +107,9 @@
             "last_commit": "2022-04-03T22:14:29Z",
             "owner": "hacksalot",
             "repo": "HackMyResume",
-            "stars": 9342
-          }
+            "stars": 9341
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         },
         {
           "node_type": "item",
@@ -118,7 +124,8 @@
             "owner": "mszep",
             "repo": "pandoc_resume",
             "stars": 1775
-          }
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         }
       ],
       "title": "Workflows"
@@ -139,7 +146,8 @@
             "owner": "deedy",
             "repo": "Deedy-Resume",
             "stars": 5054
-          }
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         },
         {
           "node_type": "item",
@@ -153,8 +161,9 @@
             "last_commit": "2026-07-31T11:43:45Z",
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3330
-          }
+            "stars": 3332
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         },
         {
           "node_type": "item",
@@ -168,8 +177,9 @@
             "last_commit": "2025-07-30T13:17:34Z",
             "owner": "liantze",
             "repo": "AltaCV",
-            "stars": 1576
-          }
+            "stars": 1578
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "opieters",
             "repo": "limecv",
             "stars": 424
-          }
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "dartar",
             "repo": "cvtex",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         },
         {
           "node_type": "item",
@@ -214,7 +226,8 @@
             "owner": "depressiveRobot",
             "repo": "friggeri-cv-a4",
             "stars": 94
-          }
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         }
       ],
       "title": "LaTeX"
@@ -235,7 +248,8 @@
             "owner": "fresh-standard",
             "repo": "fresh-resume-schema",
             "stars": 559
-          }
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         }
       ],
       "title": "Schemas"
@@ -256,14 +270,15 @@
             "owner": "saadq",
             "repo": "resumake.io",
             "stars": 3585
-          }
+          },
+          "first_seen": "2026-08-28T11:38:21.738Z"
         }
       ],
       "title": "Services"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:35:00.165Z",
+    "last_updated": "2026-08-28T11:38:21.738Z",
     "original_repository_info": {
       "archived": false,
       "id": 200389958,
