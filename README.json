@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jekyll extensions for the blogging scholar",
+            "homepage": null,
             "id": 1982854,
             "language": "Gherkin",
+            "license": "MIT",
             "last_commit": "2026-01-06T11:13:49Z",
+            "open_issues": 65,
             "owner": "inukshuk",
             "repo": "jekyll-scholar",
-            "stars": 1201
+            "stars": 1201,
+            "topics": [
+              "bibliography",
+              "bibtex",
+              "citations",
+              "csl",
+              "jekyll",
+              "jekyll-plugin",
+              "ruby",
+              "static-site-generator"
+            ]
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         },
@@ -26,12 +40,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 18639988,
             "language": "OCaml",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-19T14:35:46Z",
+            "open_issues": 17,
             "owner": "backtracking",
             "repo": "bibtex2html",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         }
@@ -48,12 +67,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate a responsive CSS3 and HTML5 resume with Markdown, with optional PDF output.",
+            "homepage": null,
             "id": 3571772,
             "language": "Less",
+            "license": "MIT",
             "last_commit": "2023-03-18T05:20:54Z",
+            "open_issues": 19,
             "owner": "there4",
             "repo": "markdown-resume",
-            "stars": 1785
+            "stars": 1785,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         },
@@ -64,12 +88,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a simple template to write your CV in a readable markdown file and use CSS to publish/print it.",
+            "homepage": "elipapa.github.io/markdown-cv",
             "id": 6176823,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-06-27T09:30:26Z",
+            "open_issues": 35,
             "owner": "elipapa",
             "repo": "markdown-cv",
-            "stars": 1493
+            "stars": 1494,
+            "topics": [
+              "css",
+              "curriculum",
+              "curriculum-vitae",
+              "cv",
+              "github-page",
+              "html",
+              "jekyll",
+              "markdown-cv",
+              "pdf",
+              "resume",
+              "resume-template"
+            ]
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         },
@@ -80,12 +121,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your new Jekyll default theme.",
+            "homepage": "https://mmistakes.github.io/jekyll-theme-basically-basic/",
             "id": 84246188,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2024-08-09T21:56:19Z",
+            "open_issues": 13,
             "owner": "mmistakes",
             "repo": "jekyll-theme-basically-basic",
-            "stars": 899
+            "stars": 899,
+            "topics": [
+              "algolia",
+              "algolia-search",
+              "github-pages",
+              "jekyll",
+              "jekyll-theme",
+              "lunr",
+              "ruby-gem",
+              "search",
+              "theme"
+            ]
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         }
@@ -102,12 +158,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate polished résumés and CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML, smoke signal, and carrier pigeon.",
+            "homepage": "https://fluentdesk.com/hackmyresume",
             "id": 43076202,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-04-03T22:14:29Z",
+            "open_issues": 67,
             "owner": "hacksalot",
             "repo": "HackMyResume",
-            "stars": 9341
+            "stars": 9340,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         },
@@ -118,12 +179,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Markdown Resume",
+            "homepage": "http://mszep.github.io/pandoc_resume/",
             "id": 21666181,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2024-02-28T17:35:05Z",
+            "open_issues": 38,
             "owner": "mszep",
             "repo": "pandoc_resume",
-            "stars": 1775
+            "stars": 1775,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         }
@@ -140,12 +206,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A one page , two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student",
+            "homepage": null,
             "id": 19312540,
             "language": "TeX",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-18T07:22:40Z",
+            "open_issues": 50,
             "owner": "deedy",
             "repo": "Deedy-Resume",
-            "stars": 5054
+            "stars": 5054,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         },
@@ -156,12 +227,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":necktie: A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!",
+            "homepage": "https://latexcv.pro/",
             "id": 20863462,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2026-07-31T11:43:45Z",
+            "open_issues": 1,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3332
+            "stars": 3332,
+            "topics": [
+              "application",
+              "carreer",
+              "classic",
+              "cv",
+              "cv-template",
+              "hacktoberfest",
+              "infographic",
+              "job",
+              "latex",
+              "modern",
+              "resume",
+              "resume-template",
+              "sidebar",
+              "template",
+              "tex"
+            ]
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         },
@@ -172,12 +264,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another alternative curriculum vitae/résumé class with LaTeX",
+            "homepage": null,
             "id": 66150908,
             "language": "TeX",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-30T13:17:34Z",
+            "open_issues": 11,
             "owner": "liantze",
             "repo": "AltaCV",
-            "stars": 1578
+            "stars": 1578,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         },
@@ -188,12 +285,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A LaTeX CV Document Class",
+            "homepage": null,
             "id": 98804117,
             "language": "TeX",
+            "license": "NOASSERTION",
             "last_commit": "2021-11-30T19:45:44Z",
+            "open_issues": 6,
             "owner": "opieters",
             "repo": "limecv",
-            "stars": 424
+            "stars": 424,
+            "topics": [
+              "cover-letter",
+              "curriculum-vitae",
+              "cv",
+              "latex",
+              "latex-template",
+              "lualatex",
+              "xelatex"
+            ]
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         },
@@ -204,12 +314,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "XeTeX cv templates",
+            "homepage": "http://nitens.org/taraborelli/cvtex",
             "id": 697513,
             "language": null,
+            "license": null,
             "last_commit": "2010-06-18T19:09:30Z",
+            "open_issues": 1,
             "owner": "dartar",
             "repo": "cvtex",
-            "stars": 162
+            "stars": 162,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         },
@@ -220,12 +335,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A4 paper format version of the fancy Friggeri CV LaTex template",
+            "homepage": null,
             "id": 44742450,
             "language": "TeX",
+            "license": "MIT",
             "last_commit": "2017-07-12T23:01:12Z",
+            "open_issues": 1,
             "owner": "depressiveRobot",
             "repo": "friggeri-cv-a4",
-            "stars": 94
+            "stars": 94,
+            "topics": [
+              "friggeri-cv",
+              "latex"
+            ]
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         }
@@ -242,12 +365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A rational schema for your résumé or CV.",
+            "homepage": "https://resume.freshstandard.org",
             "id": 46491778,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-02-08T09:19:57Z",
+            "open_issues": 21,
             "owner": "fresh-standard",
             "repo": "fresh-resume-schema",
-            "stars": 559
+            "stars": 559,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         }
@@ -264,12 +392,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 A website for automatically generating elegant LaTeX resumes.",
+            "homepage": "https://resumake.io",
             "id": 90080868,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-06-26T08:39:24Z",
+            "open_issues": 90,
             "owner": "saadq",
             "repo": "resumake.io",
-            "stars": 3585
+            "stars": 3586,
+            "topics": [
+              "generator",
+              "latex",
+              "nodejs",
+              "pdf",
+              "pdf-generation",
+              "pdf-generator",
+              "pdflatex",
+              "react",
+              "resume"
+            ]
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
         }
@@ -278,15 +421,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:38:21.738Z",
+    "last_updated": "2026-08-29T05:02:34.647Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":page_facing_up: A curated list of awesome CV and resume templates",
+      "homepage": null,
       "id": 200389958,
       "language": null,
+      "license": null,
       "last_commit": "2025-08-14T07:10:36Z",
+      "open_issues": 3,
       "owner": "epidrome",
       "repo": "awesome-cv-templates",
-      "stars": 73
+      "stars": 73,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "boilerplate",
+        "curriculum-vitae",
+        "cv",
+        "resume",
+        "template"
+      ]
     },
     "original_repository_sha": "12a7df7f2b85a0aae002521c5d7832f0e50259af",
     "enhanced_repository": "enhansome/enhansome-cv-templates",
