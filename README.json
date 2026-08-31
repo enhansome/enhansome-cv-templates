@@ -130,7 +130,7 @@
             "open_issues": 13,
             "owner": "mmistakes",
             "repo": "jekyll-theme-basically-basic",
-            "stars": 899,
+            "stars": 900,
             "topics": [
               "algolia",
               "algolia-search",
@@ -215,7 +215,7 @@
             "open_issues": 50,
             "owner": "deedy",
             "repo": "Deedy-Resume",
-            "stars": 5054,
+            "stars": 5055,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -233,10 +233,10 @@
             "language": "TeX",
             "license": "MIT",
             "last_commit": "2026-07-31T11:43:45Z",
-            "open_issues": 1,
+            "open_issues": 3,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3332,
+            "stars": 3331,
             "topics": [
               "application",
               "carreer",
@@ -273,7 +273,7 @@
             "open_issues": 11,
             "owner": "liantze",
             "repo": "AltaCV",
-            "stars": 1579,
+            "stars": 1578,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -401,7 +401,7 @@
             "open_issues": 90,
             "owner": "saadq",
             "repo": "resumake.io",
-            "stars": 3586,
+            "stars": 3587,
             "topics": [
               "generator",
               "latex",
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T05:39:29.546Z",
+    "last_updated": "2026-08-31T05:54:42.822Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
