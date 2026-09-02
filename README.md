@@ -30,7 +30,7 @@ CSS CV templates are based on HTML standards and they are geared towards screen 
 
 Workflows employ one or more programming and layout languages, toolchains, and schemas, in order to produce multiple outputs from a single data source.
 
-* [Hack My Resume](https://github.com/hacksalot/HackMyResume) ⭐ 9,339 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-03 - Edit a single standard `JSON` file and generate CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML with `JavaScript` libraries.
+* [Hack My Resume](https://github.com/hacksalot/HackMyResume) ⭐ 9,338 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-03 - Edit a single standard `JSON` file and generate CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML with `JavaScript` libraries.
 * [Pandoc Resume](https://github.com/mszep/pandoc_resume) ⭐ 1,775 | 🐛 38 | 🌐 TeX | 📅 2024-02-28 - Edit a human readable `Markdown` file and generate HTML, PDF with `pandoc` and `LaTeX`.
 * [Resume generator](https://github.com/mwhite/resume) - Edit a markdown file and then the unix `make` tool employs a `python` pre-processor and pandoc, in order to create PDF and HTML output.
 
@@ -40,7 +40,7 @@ This section contains only pure LaTeX templates, which focus on the production o
 
 * [Deedy Resume](https://github.com/deedy/Deedy-Resume) ⭐ 5,056 | 🐛 50 | 🌐 TeX | 📅 2022-09-18 - A one page, two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student.
 * [LaTeX CV](https://github.com/jankapunkt/latexcv) ⭐ 3,332 | 🐛 3 | 🌐 TeX | 📅 2026-07-31 - Three templates (classic, modern, infographics) with asian languages support.
-* [Alta CV](https://github.com/liantze/AltaCV) ⭐ 1,578 | 🐛 11 | 🌐 TeX | 📅 2025-07-30 - Alta CV provides two-columns, infographics, and icons and it is based on the [original Marissa Meyer resume](https://www.businessinsider.com/a-sample-resume-for-marissa-mayer-2015-7/).
+* [Alta CV](https://github.com/liantze/AltaCV) ⭐ 1,579 | 🐛 11 | 🌐 TeX | 📅 2025-07-30 - Alta CV provides two-columns, infographics, and icons and it is based on the [original Marissa Meyer resume](https://www.businessinsider.com/a-sample-resume-for-marissa-mayer-2015-7/).
 * [limecv](https://github.com/opieters/limecv) ⭐ 424 | 🐛 6 | 🌐 TeX | 📅 2021-11-30 - Limecv by opieters is an elaborate and well-documented two-collumn resume with icons and infographic elements.
 * [XeTeX CV](https://github.com/dartar/cvtex) ⭐ 162 | 🐛 1 | 📅 2010-06-18 - This flexible template by dartar supports any font and language and it has inspired many forks.
 * [Fancy CV](https://github.com/depressiveRobot/friggeri-cv-a4) ⭐ 94 | 🐛 1 | 🌐 TeX | 📅 2017-07-12 - Fancy CV by Adrien Friggeri is a modern layout and has inspired many forks.
@@ -73,4 +73,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
