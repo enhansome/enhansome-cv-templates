@@ -188,7 +188,7 @@
             "open_issues": 38,
             "owner": "mszep",
             "repo": "pandoc_resume",
-            "stars": 1775,
+            "stars": 1774,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T04:51:48.579Z",
+    "last_updated": "2026-09-04T04:54:57.017Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
@@ -433,7 +433,7 @@
       "open_issues": 3,
       "owner": "epidrome",
       "repo": "awesome-cv-templates",
-      "stars": 73,
+      "stars": 74,
       "topics": [
         "awesome",
         "awesome-list",
