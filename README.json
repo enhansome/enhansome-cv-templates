@@ -76,7 +76,7 @@
             "open_issues": 19,
             "owner": "there4",
             "repo": "markdown-resume",
-            "stars": 1785,
+            "stars": 1784,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -167,7 +167,7 @@
             "open_issues": 67,
             "owner": "hacksalot",
             "repo": "HackMyResume",
-            "stars": 9338,
+            "stars": 9337,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -236,7 +236,7 @@
             "open_issues": 4,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3333,
+            "stars": 3334,
             "topics": [
               "application",
               "carreer",
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T04:49:00.868Z",
+    "last_updated": "2026-09-06T04:56:58.047Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
@@ -430,7 +430,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-14T07:10:36Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "epidrome",
       "repo": "awesome-cv-templates",
       "stars": 74,
