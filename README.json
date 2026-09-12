@@ -167,7 +167,7 @@
             "open_issues": 67,
             "owner": "hacksalot",
             "repo": "HackMyResume",
-            "stars": 9335,
+            "stars": 9334,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -215,7 +215,7 @@
             "open_issues": 50,
             "owner": "deedy",
             "repo": "Deedy-Resume",
-            "stars": 5055,
+            "stars": 5054,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T04:59:42.763Z",
+    "last_updated": "2026-09-12T04:52:09.642Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
@@ -430,7 +430,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-14T07:10:36Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "epidrome",
       "repo": "awesome-cv-templates",
       "stars": 74,
