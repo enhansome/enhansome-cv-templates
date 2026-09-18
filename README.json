@@ -97,7 +97,7 @@
             "open_issues": 36,
             "owner": "elipapa",
             "repo": "markdown-cv",
-            "stars": 1494,
+            "stars": 1495,
             "topics": [
               "css",
               "curriculum",
@@ -236,7 +236,7 @@
             "open_issues": 4,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3336,
+            "stars": 3337,
             "topics": [
               "application",
               "carreer",
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T05:07:30.898Z",
+    "last_updated": "2026-09-18T05:00:07.909Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
