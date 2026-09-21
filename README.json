@@ -212,10 +212,10 @@
             "language": "TeX",
             "license": "Apache-2.0",
             "last_commit": "2022-09-18T07:22:40Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "deedy",
             "repo": "Deedy-Resume",
-            "stars": 5060,
+            "stars": 5062,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -233,10 +233,10 @@
             "language": "TeX",
             "license": "MIT",
             "last_commit": "2026-09-05T01:13:57Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3338,
+            "stars": 3340,
             "topics": [
               "application",
               "carreer",
@@ -401,7 +401,7 @@
             "open_issues": 90,
             "owner": "saadq",
             "repo": "resumake.io",
-            "stars": 3586,
+            "stars": 3587,
             "topics": [
               "generator",
               "latex",
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T05:12:18.645Z",
+    "last_updated": "2026-09-21T05:16:47.161Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
@@ -430,7 +430,7 @@
       "language": null,
       "license": null,
       "last_commit": "2025-08-14T07:10:36Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "epidrome",
       "repo": "awesome-cv-templates",
       "stars": 74,
