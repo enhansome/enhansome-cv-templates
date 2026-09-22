@@ -188,7 +188,7 @@
             "open_issues": 38,
             "owner": "mszep",
             "repo": "pandoc_resume",
-            "stars": 1774,
+            "stars": 1775,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T05:16:47.161Z",
+    "last_updated": "2026-09-22T05:15:07.612Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
