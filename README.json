@@ -76,7 +76,7 @@
             "open_issues": 19,
             "owner": "there4",
             "repo": "markdown-resume",
-            "stars": 1782,
+            "stars": 1783,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -97,7 +97,7 @@
             "open_issues": 36,
             "owner": "elipapa",
             "repo": "markdown-cv",
-            "stars": 1498,
+            "stars": 1499,
             "topics": [
               "css",
               "curriculum",
@@ -236,7 +236,7 @@
             "open_issues": 5,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3342,
+            "stars": 3343,
             "topics": [
               "application",
               "carreer",
@@ -401,7 +401,7 @@
             "open_issues": 89,
             "owner": "saadq",
             "repo": "resumake.io",
-            "stars": 3586,
+            "stars": 3587,
             "topics": [
               "generator",
               "latex",
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T05:59:39.408Z",
+    "last_updated": "2026-09-30T05:49:11.719Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
