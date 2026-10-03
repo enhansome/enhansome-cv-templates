@@ -236,7 +236,7 @@
             "open_issues": 5,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3343,
+            "stars": 3345,
             "topics": [
               "application",
               "carreer",
@@ -273,7 +273,7 @@
             "open_issues": 11,
             "owner": "liantze",
             "repo": "AltaCV",
-            "stars": 1579,
+            "stars": 1580,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T05:59:30.433Z",
+    "last_updated": "2026-10-03T04:39:11.903Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
