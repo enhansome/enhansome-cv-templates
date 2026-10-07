@@ -15,7 +15,7 @@
 
 If you are an academic, then you might want to include your publications as part of your CV.
 
-* [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) ⭐ 1,201 | 🐛 65 | 🌐 Gherkin | 📅 2026-01-06 - A `ruby` gem that works alongside the `jekyll` static-site generator in order to convert `BibTeX` into `HTML`.
+* [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) ⭐ 1,202 | 🐛 65 | 🌐 Gherkin | 📅 2026-01-06 - A `ruby` gem that works alongside the `jekyll` static-site generator in order to convert `BibTeX` into `HTML`.
 * [bibtex2html](https://github.com/backtracking/bibtex2html) ⭐ 109 | 🐛 17 | 🌐 OCaml | 📅 2024-01-19 - Command-line tool that converts `BibTeX` files into `HTML`.
 
 ## CSS
@@ -73,4 +73,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
