@@ -167,7 +167,7 @@
             "open_issues": 67,
             "owner": "hacksalot",
             "repo": "HackMyResume",
-            "stars": 9329,
+            "stars": 9330,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -215,7 +215,7 @@
             "open_issues": 51,
             "owner": "deedy",
             "repo": "Deedy-Resume",
-            "stars": 5065,
+            "stars": 5066,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -236,7 +236,7 @@
             "open_issues": 4,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3349,
+            "stars": 3350,
             "topics": [
               "application",
               "carreer",
@@ -273,7 +273,7 @@
             "open_issues": 11,
             "owner": "liantze",
             "repo": "AltaCV",
-            "stars": 1580,
+            "stars": 1581,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T06:10:32.460Z",
+    "last_updated": "2026-10-12T06:18:40.950Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
