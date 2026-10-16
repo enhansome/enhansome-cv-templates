@@ -16,7 +16,7 @@
             "language": "Gherkin",
             "license": "MIT",
             "last_commit": "2026-01-06T11:13:49Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "inukshuk",
             "repo": "jekyll-scholar",
             "stars": 1202,
@@ -236,7 +236,7 @@
             "open_issues": 4,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3352,
+            "stars": 3354,
             "topics": [
               "application",
               "carreer",
@@ -401,7 +401,7 @@
             "open_issues": 89,
             "owner": "saadq",
             "repo": "resumake.io",
-            "stars": 3587,
+            "stars": 3586,
             "topics": [
               "generator",
               "latex",
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T04:59:15.383Z",
+    "last_updated": "2026-10-16T04:49:11.940Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",

@@ -15,7 +15,7 @@
 
 If you are an academic, then you might want to include your publications as part of your CV.
 
-* [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) ⭐ 1,202 | 🐛 65 | 🌐 Gherkin | 📅 2026-01-06 - A `ruby` gem that works alongside the `jekyll` static-site generator in order to convert `BibTeX` into `HTML`.
+* [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) ⭐ 1,202 | 🐛 66 | 🌐 Gherkin | 📅 2026-01-06 - A `ruby` gem that works alongside the `jekyll` static-site generator in order to convert `BibTeX` into `HTML`.
 * [bibtex2html](https://github.com/backtracking/bibtex2html) ⭐ 109 | 🐛 17 | 🌐 OCaml | 📅 2024-01-19 - Command-line tool that converts `BibTeX` files into `HTML`.
 
 ## CSS
@@ -39,7 +39,7 @@ Workflows employ one or more programming and layout languages, toolchains, and s
 This section contains only pure LaTeX templates, which focus on the production of printed pages.
 
 * [Deedy Resume](https://github.com/deedy/Deedy-Resume) ⭐ 5,065 | 🐛 51 | 🌐 TeX | 📅 2022-09-18 - A one page, two asymmetric column resume template in XeTeX that caters to an undergraduate Computer Science student.
-* [LaTeX CV](https://github.com/jankapunkt/latexcv) ⭐ 3,352 | 🐛 4 | 🌐 TeX | 📅 2026-10-07 - Three templates (classic, modern, infographics) with asian languages support.
+* [LaTeX CV](https://github.com/jankapunkt/latexcv) ⭐ 3,354 | 🐛 4 | 🌐 TeX | 📅 2026-10-07 - Three templates (classic, modern, infographics) with asian languages support.
 * [Alta CV](https://github.com/liantze/AltaCV) ⭐ 1,582 | 🐛 11 | 🌐 TeX | 📅 2025-07-30 - Alta CV provides two-columns, infographics, and icons and it is based on the [original Marissa Meyer resume](https://www.businessinsider.com/a-sample-resume-for-marissa-mayer-2015-7/).
 * [limecv](https://github.com/opieters/limecv) ⭐ 426 | 🐛 6 | 🌐 TeX | 📅 2021-11-30 - Limecv by opieters is an elaborate and well-documented two-collumn resume with icons and infographic elements.
 * [XeTeX CV](https://github.com/dartar/cvtex) ⭐ 162 | 🐛 1 | 📅 2010-06-18 - This flexible template by dartar supports any font and language and it has inspired many forks.
@@ -56,7 +56,7 @@ Schemas provide a generic structure for CV data and facilitate cross compilation
 
 There are (free or commercial) services that aid the user to fill-in and/or customize a CV template with a simple web form.
 
-* [resumake](https://github.com/saadq/resumake.io) ⭐ 3,587 | 🐛 89 | 🌐 HTML | 📅 2026-06-26 - Free service that supports the `JSON` resume standard and employs `LaTeX` templates.
+* [resumake](https://github.com/saadq/resumake.io) ⭐ 3,586 | 🐛 89 | 🌐 HTML | 📅 2026-06-26 - Free service that supports the `JSON` resume standard and employs `LaTeX` templates.
 * [enhancecv](https://enhancv.com/) - Commercial service with variations of a single template.
 * [resume.io](https://resume.io/) - Commercial service with several templates (professional, modern, simple).
 
@@ -73,4 +73,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
