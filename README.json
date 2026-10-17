@@ -97,7 +97,7 @@
             "open_issues": 36,
             "owner": "elipapa",
             "repo": "markdown-cv",
-            "stars": 1498,
+            "stars": 1500,
             "topics": [
               "css",
               "curriculum",
@@ -232,11 +232,11 @@
             "id": 20863462,
             "language": "TeX",
             "license": "MIT",
-            "last_commit": "2026-10-07T07:37:49Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-16T10:40:29Z",
+            "open_issues": 5,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3354,
+            "stars": 3355,
             "topics": [
               "application",
               "carreer",
@@ -273,7 +273,7 @@
             "open_issues": 11,
             "owner": "liantze",
             "repo": "AltaCV",
-            "stars": 1582,
+            "stars": 1583,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T04:49:11.940Z",
+    "last_updated": "2026-10-17T04:49:22.062Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
