@@ -76,7 +76,7 @@
             "open_issues": 19,
             "owner": "there4",
             "repo": "markdown-resume",
-            "stars": 1782,
+            "stars": 1781,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -167,7 +167,7 @@
             "open_issues": 67,
             "owner": "hacksalot",
             "repo": "HackMyResume",
-            "stars": 9332,
+            "stars": 9331,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T04:55:25.772Z",
+    "last_updated": "2026-10-19T05:04:40.498Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
