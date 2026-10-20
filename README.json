@@ -16,7 +16,7 @@
             "language": "Gherkin",
             "license": "MIT",
             "last_commit": "2026-01-06T11:13:49Z",
-            "open_issues": 66,
+            "open_issues": 65,
             "owner": "inukshuk",
             "repo": "jekyll-scholar",
             "stars": 1202,
@@ -97,7 +97,7 @@
             "open_issues": 36,
             "owner": "elipapa",
             "repo": "markdown-cv",
-            "stars": 1500,
+            "stars": 1501,
             "topics": [
               "css",
               "curriculum",
@@ -215,7 +215,7 @@
             "open_issues": 51,
             "owner": "deedy",
             "repo": "Deedy-Resume",
-            "stars": 5065,
+            "stars": 5064,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T05:04:40.498Z",
+    "last_updated": "2026-10-20T05:07:16.845Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
