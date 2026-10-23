@@ -236,7 +236,7 @@
             "open_issues": 5,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3355,
+            "stars": 3356,
             "topics": [
               "application",
               "carreer",
@@ -401,7 +401,7 @@
             "open_issues": 89,
             "owner": "saadq",
             "repo": "resumake.io",
-            "stars": 3585,
+            "stars": 3584,
             "topics": [
               "generator",
               "latex",
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T05:11:19.295Z",
+    "last_updated": "2026-10-23T05:11:16.584Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
