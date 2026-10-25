@@ -97,7 +97,7 @@
             "open_issues": 36,
             "owner": "elipapa",
             "repo": "markdown-cv",
-            "stars": 1502,
+            "stars": 1501,
             "topics": [
               "css",
               "curriculum",
@@ -167,7 +167,7 @@
             "open_issues": 67,
             "owner": "hacksalot",
             "repo": "HackMyResume",
-            "stars": 9331,
+            "stars": 9332,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -188,7 +188,7 @@
             "open_issues": 38,
             "owner": "mszep",
             "repo": "pandoc_resume",
-            "stars": 1777,
+            "stars": 1778,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -236,7 +236,7 @@
             "open_issues": 5,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3356,
+            "stars": 3357,
             "topics": [
               "application",
               "carreer",
@@ -273,7 +273,7 @@
             "open_issues": 11,
             "owner": "liantze",
             "repo": "AltaCV",
-            "stars": 1583,
+            "stars": 1584,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T04:53:58.534Z",
+    "last_updated": "2026-10-25T05:05:15.340Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
