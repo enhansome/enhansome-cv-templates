@@ -15,7 +15,7 @@
 
 If you are an academic, then you might want to include your publications as part of your CV.
 
-* [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) ⭐ 1,202 | 🐛 65 | 🌐 Gherkin | 📅 2026-01-06 - A `ruby` gem that works alongside the `jekyll` static-site generator in order to convert `BibTeX` into `HTML`.
+* [Jekyll-Scholar](https://github.com/inukshuk/jekyll-scholar) ⭐ 1,200 | 🐛 65 | 🌐 Gherkin | 📅 2026-01-06 - A `ruby` gem that works alongside the `jekyll` static-site generator in order to convert `BibTeX` into `HTML`.
 * [bibtex2html](https://github.com/backtracking/bibtex2html) ⭐ 109 | 🐛 17 | 🌐 OCaml | 📅 2024-01-19 - Command-line tool that converts `BibTeX` files into `HTML`.
 
 ## CSS
@@ -56,7 +56,7 @@ Schemas provide a generic structure for CV data and facilitate cross compilation
 
 There are (free or commercial) services that aid the user to fill-in and/or customize a CV template with a simple web form.
 
-* [resumake](https://github.com/saadq/resumake.io) ⭐ 3,583 | 🐛 89 | 🌐 HTML | 📅 2026-06-26 - Free service that supports the `JSON` resume standard and employs `LaTeX` templates.
+* [resumake](https://github.com/saadq/resumake.io) ⭐ 3,584 | 🐛 89 | 🌐 HTML | 📅 2026-06-26 - Free service that supports the `JSON` resume standard and employs `LaTeX` templates.
 * [enhancecv](https://enhancv.com/) - Commercial service with variations of a single template.
 * [resume.io](https://resume.io/) - Commercial service with several templates (professional, modern, simple).
 
@@ -73,4 +73,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
