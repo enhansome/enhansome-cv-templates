@@ -167,7 +167,7 @@
             "open_issues": 67,
             "owner": "hacksalot",
             "repo": "HackMyResume",
-            "stars": 9328,
+            "stars": 9327,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -397,7 +397,7 @@
             "id": 90080868,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-06-26T08:39:24Z",
+            "last_commit": "2026-11-02T02:42:12Z",
             "open_issues": 89,
             "owner": "saadq",
             "repo": "resumake.io",
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T06:36:49.321Z",
+    "last_updated": "2026-11-02T06:35:53.751Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
