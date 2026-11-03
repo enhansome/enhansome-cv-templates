@@ -236,7 +236,7 @@
             "open_issues": 4,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3365,
+            "stars": 3366,
             "topics": [
               "application",
               "carreer",
@@ -397,7 +397,7 @@
             "id": 90080868,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-02T02:42:12Z",
+            "last_commit": "2026-11-02T07:33:59Z",
             "open_issues": 89,
             "owner": "saadq",
             "repo": "resumake.io",
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T06:35:53.751Z",
+    "last_updated": "2026-11-03T07:06:01.197Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
