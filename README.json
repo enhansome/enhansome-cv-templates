@@ -167,7 +167,7 @@
             "open_issues": 67,
             "owner": "hacksalot",
             "repo": "HackMyResume",
-            "stars": 9326,
+            "stars": 9327,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -215,7 +215,7 @@
             "open_issues": 51,
             "owner": "deedy",
             "repo": "Deedy-Resume",
-            "stars": 5066,
+            "stars": 5065,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -233,7 +233,7 @@
             "language": "TeX",
             "license": "MIT",
             "last_commit": "2026-10-30T10:00:21Z",
-            "open_issues": 4,
+            "open_issues": 2,
             "owner": "jankapunkt",
             "repo": "latexcv",
             "stars": 3367,
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T07:10:09.789Z",
+    "last_updated": "2026-11-07T06:22:08.799Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
