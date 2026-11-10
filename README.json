@@ -215,7 +215,7 @@
             "open_issues": 51,
             "owner": "deedy",
             "repo": "Deedy-Resume",
-            "stars": 5065,
+            "stars": 5064,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -294,7 +294,7 @@
             "open_issues": 6,
             "owner": "opieters",
             "repo": "limecv",
-            "stars": 426,
+            "stars": 427,
             "topics": [
               "cover-letter",
               "curriculum-vitae",
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T07:00:09.290Z",
+    "last_updated": "2026-11-10T07:37:05.153Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
