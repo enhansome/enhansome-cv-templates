@@ -215,7 +215,7 @@
             "open_issues": 51,
             "owner": "deedy",
             "repo": "Deedy-Resume",
-            "stars": 5064,
+            "stars": 5065,
             "topics": []
           },
           "first_seen": "2026-08-28T11:38:21.738Z"
@@ -236,7 +236,7 @@
             "open_issues": 2,
             "owner": "jankapunkt",
             "repo": "latexcv",
-            "stars": 3367,
+            "stars": 3368,
             "topics": [
               "application",
               "carreer",
@@ -397,7 +397,7 @@
             "id": 90080868,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-02T07:33:59Z",
+            "last_commit": "2026-11-11T07:00:56Z",
             "open_issues": 89,
             "owner": "saadq",
             "repo": "resumake.io",
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T06:55:58.327Z",
+    "last_updated": "2026-11-12T07:31:34.506Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
