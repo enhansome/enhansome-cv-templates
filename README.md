@@ -24,13 +24,13 @@ CSS CV templates are based on HTML standards and they are geared towards screen 
 
 * [Markdown Resume](https://github.com/there4/markdown-resume) ⭐ 1,780 | 🐛 19 | 🌐 Less | 📅 2023-03-18 - Generate a responsive CSS3 and HTML5 resume with `Markdown`, with optional PDF output through `wkhtmltopdf`.
 * [Markdown CV](https://github.com/elipapa/markdown-cv) ⭐ 1,500 | 🐛 35 | 🌐 CSS | 📅 2024-06-27 - A simple template to write your CV in a readable `Markdown` file and use CSS to publish or print it through the browser.
-* [Jekyll Theme Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic) ⭐ 901 | 🐛 13 | 🌐 SCSS | 📅 2024-08-09 - Generate a simple static website with the `Jekyll` layout engine and a theme that supports the `JSON` resume standard.
+* [Jekyll Theme Basically Basic](https://github.com/mmistakes/jekyll-theme-basically-basic) ⭐ 900 | 🐛 13 | 🌐 SCSS | 📅 2024-08-09 - Generate a simple static website with the `Jekyll` layout engine and a theme that supports the `JSON` resume standard.
 
 ## Workflows
 
 Workflows employ one or more programming and layout languages, toolchains, and schemas, in order to produce multiple outputs from a single data source.
 
-* [Hack My Resume](https://github.com/hacksalot/HackMyResume) ⭐ 9,325 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-03 - Edit a single standard `JSON` file and generate CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML with `JavaScript` libraries.
+* [Hack My Resume](https://github.com/hacksalot/HackMyResume) ⭐ 9,324 | 🐛 67 | 🌐 JavaScript | 📅 2022-04-03 - Edit a single standard `JSON` file and generate CVs in HTML, Markdown, LaTeX, MS Word, PDF, plain text, JSON, XML, YAML with `JavaScript` libraries.
 * [Pandoc Resume](https://github.com/mszep/pandoc_resume) ⭐ 1,778 | 🐛 38 | 🌐 TeX | 📅 2024-02-28 - Edit a human readable `Markdown` file and generate HTML, PDF with `pandoc` and `LaTeX`.
 * [Resume generator](https://github.com/mwhite/resume) - Edit a markdown file and then the unix `make` tool employs a `python` pre-processor and pandoc, in order to create PDF and HTML output.
 
@@ -49,7 +49,7 @@ This section contains only pure LaTeX templates, which focus on the production o
 
 Schemas provide a generic structure for CV data and facilitate cross compilation with alternative templates.
 
-* [FRESH](https://github.com/fresh-standard/fresh-resume-schema) ⭐ 555 | 🐛 21 | 📅 2019-02-08 - `JSON' and `YAML\` standard for resumes.
+* [FRESH](https://github.com/fresh-standard/fresh-resume-schema) ⭐ 554 | 🐛 21 | 📅 2019-02-08 - `JSON' and `YAML\` standard for resumes.
 * [JSON Resume](https://github.com/jsonresume) - `JSON` standard for resumes.
 
 ## Services
@@ -73,4 +73,4 @@ related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
