@@ -401,7 +401,7 @@
             "open_issues": 1,
             "owner": "saadq",
             "repo": "resumake.io",
-            "stars": 3593,
+            "stars": 3594,
             "topics": [
               "generator",
               "latex",
@@ -421,7 +421,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T08:55:24.317Z",
+    "last_updated": "2026-11-28T08:15:40.287Z",
     "original_repository_info": {
       "archived": false,
       "description": ":page_facing_up: A curated list of awesome CV and resume templates",
